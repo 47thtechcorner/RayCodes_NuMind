@@ -185,7 +185,7 @@ Both models are registered in Ollama's local registry under custom names (`nuext
 
 ## 📺 Watch the Full Video
 
-**[Can Tiny AI Beast HRM Text 1B Do Math Reasoning? Tested Against Local LLMs](https://youtu.be/a_vPhVIPTmU)** — Ray Codes on YouTube
+**[NuExtract3 + Gemma 4: 100% Local Image-to-JSON Pipeline](https://youtu.be/L66rOi7xjuc)** — Ray Codes on YouTube
 
 This project was built live as part of the video above. Subscribe to [Ray Codes](https://youtube.com/@RayCodes) for more local AI experiments, Python projects, and LLM deep-dives.
 
