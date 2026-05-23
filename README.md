@@ -1,12 +1,12 @@
 <!-- YOUTUBE SEO BLOCK — helps Google index this repo alongside the video -->
-<!-- Video: Can Tiny AI Beast HRM Text 1B Do Math Reasoning? Tested Against Local LLMs -->
-<!-- Watch: https://youtu.be/a_vPhVIPTmU -->
+<!-- Video: NuExtract3 + Gemma 4: 100% Local Image-to-JSON Pipeline -->
+<!-- Watch: [https://youtu.be/a_vPhVIPTmU](https://youtu.be/L66rOi7xjuc) -->
 
-# Vision to Insight — 100% Local Image-to-JSON QnA Pipeline
+# Vision to Insight - 100% Local Image-to-JSON QnA Pipeline
 
-> **As featured in the YouTube video:** 🎬 [Can Tiny AI Beast HRM Text 1B Do Math Reasoning? Tested Against Local LLMs](https://youtu.be/a_vPhVIPTmU) — A fully offline, two-stage AI pipeline that turns any image into structured JSON using a local Vision-Language Model (NuExtract3), then answers natural-language questions about that data using Gemma4 — no cloud APIs, no subscriptions, no data leaving your machine.
+> **As featured in the YouTube video:** 🎬 [NuExtract3 + Gemma 4: 100% Local Image-to-JSON Pipeline](https://youtu.be/L66rOi7xjuc) - A fully offline, two-stage AI pipeline that turns any image into structured JSON using a local Vision-Language Model (NuExtract3), then answers natural-language questions about that data using Gemma4 - no cloud APIs, no subscriptions, no data leaving your machine.
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20the%20Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/a_vPhVIPTmU)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20the%20Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/L66rOi7xjuc)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&style=for-the-badge)](https://python.org)
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-black?logo=ollama&style=for-the-badge)](https://ollama.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
