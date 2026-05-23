@@ -1,0 +1,18 @@
+# Large model files - download separately from HuggingFace
+*.gguf
+
+# Auto-downloaded assets (re-generated on first run)
+receipt.jpg
+ReceiptSwiss.jpg
+
+# Runtime outputs (auto-generated)
+receipt_extracted.json
+qna_answer.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
